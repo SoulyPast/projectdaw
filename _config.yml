@@ -23,7 +23,7 @@ email: mssoulaimane@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   La informació del projecte que hem presentar ahir al Moodle del centre
 baseurl: "/projectdaw" # the subpath of your site, e.g. /blog
-url: "https://soulypast.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://soulypast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Soulypast
 github_username:  Soulypast
 
