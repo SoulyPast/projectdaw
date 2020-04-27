@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Material:"
+---
+
+<h3> M01: Sistemes Informàtics:</h3>
+Linux Ubuntu: servidor web apache2, un servidor DNS (Bind).
+Seguretat: ClamAV.
+Script per fer còpia de base de dades MySQL.
+
+En l'hora de desenvolupà el projecte utilitzar el hubic per fer còpies de seguretat per evitar problemes.
+
+<h3>M02: Bases de Dades:</h3>
+Guardar dades en MySQL ,realitza consultes MYSQL de deferent tipus des de php framwork(laravel).
+Creació d’un trigger que registri quin usuari realitza deletes o updates a les taules. 
+
+<h3>M03: Programació:</h3>
+un programa en entorn d'escriptori desenvolupat en Java que permet realitzar comprovació a la base de dades.
+
+<h3>M04: Llenguatges de marques i Sistemes de gestió d’informació: </h3>
+Generar còpies de seguretat en XML de les resultats de les activitats.
+Utilitza api que retorna les dades en format json (la generalitat).
+
+<h3>M05: Entorns de Desenvolupament:</h3>
+Realitzar els diagrames UML estàtics i dinàmics.
+Utilitza selenium per fer tests.
+
+<h3>M07: Desenvolupament d’aplicacions en entorn servidor :</h3>
+php, laravel(models, vistas, templates ) per d'activitats i usuaris .
+
+<h3>M06: Desenvolupament d’aplicacions en entorn client:</h3>
+Utilitzaré Javascript , Jquery, DOM en les vistes de laravel.
+Ús d’AJAX en transaccions (la generalitat) . 
+
+<h3>M08: Desplegament d’Aplicacions Web </h3>
+ús de servidor web apahce2, un servidor DNS (Bind) , utilitza github com controlador de versions. 
+
+<h3>M09: Disseny d’Interfícies Web </h3>
+Wireframes , css, animacions, boostrap és important que sigui responsive.
+
+<h3>Els IDE que faré servir:</h3>
+Eclipse, Visual Studio Code.

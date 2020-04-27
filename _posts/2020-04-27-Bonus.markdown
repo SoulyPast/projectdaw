@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Bonus:"
+---
+<p>
+<h2>Coses extres si dona temps ??</h2>
+
+<h3>Augmentant tipus de exercici:</h3>
+
+<h4> 3. Discriminació de paraules auditiva. </h4>
+En aquest cas es tracta d'identificar una paraula entre un conjunt d'elles i aquesta paraula va a estar llegida per un bot, , per això necessito una api readtext.
+
+<h4> 4. Trobar lletres en paraules </h4>
+En aquesta activitat cal trobar les paraules que tinguin les lletres indicades. És un exercici útil perquè les persones amb dislèxia comencin a discriminar lletres i treballin l'atenció selectiva.
+
+
+<h4> 5. Nom correcte d'una imatge </h4>
+Com veiem en la imatge, el nen amb dislèxia ha de discriminar la paraula que correspon a la imatge presentada. Es treballa la discriminació.
+
+
+<h4> 6. Lletres desordenades </h4>
+Aquesta activitat consisteix a ordenar les lletres que apareixen per formar una paraula. Treballa el vocabulari i la memòria de treball.
+a més aconseguiran  monedàs.
+
+<br><br>
+<b>Després de realitza cada activitat el usuari guanyara monedàs.
+En la pagina va tenir un apartat que es diu botiga:
+En la botiga el usuari normal va a poder comprar com avatars  i fons de pantalla utilitzant la moneda  virtual de app web.</b>
+<br><br>
+<p>La app web permetera enviar DM :
+per exemple, un alumne pot enviar missatges al professor
+</p>

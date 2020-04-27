@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Explicació de la idea:"
+---
+<p>
+En el principi la idea es crear una app web per millora les habilitats de lectoescriptura de tots els nens amb i sense dislèxia.</p>
+
+<p>La pagina va tenir dos tipus de usuaris:</p>
+<a>Usuari normal: alumne.</a><br>
+<a>Usuari professional: professor.</a>
+
+Important registrar, si no registres no podràs accedir als parts importants de la pàgina.
+
+El usuari normal només podrà realitzar activitats, però el usuari professional va a tenir poder de crear aquestes activitats.
+
+En la hora de registra es demanara el nom de centre educatiu, per això utilitzaré una api que mi retorna 
+dades de les centres educatius de Catalunya.
+
+API oficial de dades obertes (la generalitat).
+
+Els usuaris normal quan acaben de realitzar alguna activat , guanyaran més experiència així pujaran de nivell per cert cada usuari tendra un nivell.
+
+El nivell per defecte va ser 1 en la hora de registrar amb temps va augmentant.
+
+Per els profés van a tenir un apartat per crear activitats noves.
+
+Les activitats poden ser publicàs o privades: 
+En el cas de publicàs qualsevol usuari normal pot accedir i fer l’activitat, però en la cas de privats   només pots accedir si tens la contrasenya.
+
+Els activitats poden ser de diferent tipus : (Una activitat va a tenir com a mínim 5 o com a màxim 10 exercicis ).
+
+<h4>1. Formant paraules:</h4>
+
+El nen amb dislèxia de seleccionar cada lletra en l'ordre corresponent per formar una paraula. Treballarà el vocabulari i la memòria de treball.
+
+<h4>2. Discriminació visual d'una paraula real:</h4>
+
+L'objectiu d'aquesta activitat és que el nen aconsegueixi discriminar dins d'un grup de paraules quin existeix realment.
+
+A continuació activitats podran ser de diversos nivells de dificultat:
+
+<a> Nivell Fàcil: cada exercici només tendra 4 opcions. </a><br>
+<a> Nivell Normal: cada exercici només tendra 6 opcions. </a><br>
+<a> Nivell Difícil:  cada exercici només tendra 8 opcions. </a>
+
+Després de realitza cada activitat os donar el resultat i els erros que ha fet el usuari, això es guardara para que els professores podran veure els erros que ha fet el alumne.
+
+Es pot avaluar les activitats i posar comentaris.
+
+ La pagina va tenir un buscador general que va a permeti fer buscades per:
+       
+    • Nom de activitat
+    • Centre educatius
+
+Finalment, va tenir una apartat de termes, privacitat, normes, contacte.
